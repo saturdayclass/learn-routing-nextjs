@@ -7,6 +7,9 @@ const HomePage = () => {
         <li>
           <Link href="/portfolio">Portfolio</Link>
         </li>
+        <li>
+          <Link href="/client">Client</Link>
+        </li>
       </ul>
     </div>
   );
