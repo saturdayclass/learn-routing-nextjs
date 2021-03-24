@@ -1,7 +1,5 @@
 // The name must be 404.js for create custom your 404 page
 
-import { isValidElement } from 'react';
-
 function NotFoundPage() {
   return (
     <div>
